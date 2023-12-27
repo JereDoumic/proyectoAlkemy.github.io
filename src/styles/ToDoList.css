@@ -1,0 +1,12 @@
+.list {
+    margin: 20px;
+    background-color: tomato;
+}
+
+.list-item {
+    font-weight: bold;
+}
+
+.done {
+    text-decoration: line-through;
+}
